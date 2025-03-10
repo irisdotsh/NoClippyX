@@ -1,0 +1,18 @@
+﻿{
+  "Author": "irisdotsh",
+  "Name": "NoClippyX",
+  "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips.  Now with triple weaving!",
+  "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
+  "IconUrl": "",
+  "ImageUrls": [
+    ""
+  ],
+  "RepoUrl": "https://github.com/irisdotsh/NoClippyX",
+  "CategoryTags": [
+    "jobs",
+    "utility"
+  ],
+  "InternalName": "NoClippyX",
+  "AssemblyVersion": "9.9.9.9",
+  "Changelog": ""
+}
