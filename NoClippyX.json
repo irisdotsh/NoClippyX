@@ -13,6 +13,6 @@
     "utility"
   ],
   "InternalName": "NoClippyX",
-  "AssemblyVersion": "9.9.9.9",
-  "Changelog": ""
+  "AssemblyVersion": "1.0.0.0",
+  "Changelog": "Updated for .NET9"
 }
